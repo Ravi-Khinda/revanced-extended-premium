@@ -1,1 +1,119 @@
-[]
+       
+[
+  {
+    "patchName": "Custom Shorts action buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "outline"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "youtube"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": true
+      },
+      {
+        "key": "RestoreOldSplashAnimation",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "yt.rvx.mnml.noname.exe"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "ytm.rvx.mnml.noname.exe"
+      }
+    ]
+  },
+  {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "rounded"
+      }
+    ]
+  },
+  {
+    "patchName": "Settings for YouTube",
+    "options": [
+      {
+        "key": "RVXSettingsMenuName",
+        "value": "ReVanced eXtended MNML"
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "extension"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube Music",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "mmt"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Settings for YouTube Music",
+    "options": [
+      {
+        "key": "RVXSettingsMenuName",
+        "value": "ReVanced eXtended MNML"
+      }
+    ]
+  },
+  {
+    "patchName": "Change package name",
+    "options": [
+      {
+        "key": "PackageNameReddit",
+        "value": "rdt.rvx.mnml.noname.exe"
+      }
+    ]
+  },
+  {
+    "patchName": "Settings for Reddit",
+    "options": [
+      {
+        "key": "RVXSettingsMenuName",
+        "value": "ReVanced eXtended MNML"
+      }
+    ]
+  }
+]
+        
