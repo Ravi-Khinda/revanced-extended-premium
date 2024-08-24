@@ -134,5 +134,5 @@ ui_print "* Cleanup"
 rm -rf "${MODPATH:?}/bin" "$MODPATH/$PKG_NAME.apk"
 
 ui_print "* Done"
-ui_print "  by j-hc (github.com/j-hc)"
-ui_print " "
+ui_print "* by Ravi-Khinda"
+ui_print "* ENJOY"
