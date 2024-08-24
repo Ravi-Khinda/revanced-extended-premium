@@ -3,7 +3,7 @@
 # Revanced Extended Khinda
 [![CI](https://github.com/Ravi-Khinda/revanced-extended-khinda/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Ravi-Khinda/revanced-extended-khinda/actions/workflows/ci.yml)
 
-Get the [latest CI release](https://github.com/NoName-exe/revanced-extended-mnml/releases/latest).
+Get the [latest CI release](https://github.com/Ravi-Khinda/revanced-extended-khinda/releases/latest).
 
 ## Features
  * Updated with the latest versions of patches.
