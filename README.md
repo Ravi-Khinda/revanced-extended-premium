@@ -3,7 +3,7 @@
 # Revanced Extended Khinda
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reavaced_extended)
 [![CI](https://github.com/Ravi-Khinda/revanced-extended-khinda/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Ravi-Khinda/revanced-extended-khinda/actions/workflows/ci.yml)
-[![CI](https://github.com/Ravi-Khinda/revanced-extended-khinda/actions/workflows/ci.yml/badge.svg)](https://github.com/Ravi-Khinda/revanced-extended-khinda/actions/workflows/ci.yml)
+[![CI](https://github.com/Ravi-Khinda/revanced-extended-khinda/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Ravi-Khinda/revanced-extended-khinda/actions/workflows/ci.yml)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
 Get the [latest CI release](https://github.com/Ravi-Khinda/revanced-extended-khinda/releases/latest).
