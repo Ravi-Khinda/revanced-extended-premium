@@ -16,3 +16,18 @@ included-patches = "'Force hide player buttons background' 'Hide Shorts dimming'
 version = "auto"                                                      
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "yt-rvx-khinda"
+
+[Music]
+build-mode = "both"
+app-name = "YouTube-Music"
+excluded-patches = "'Change start page' 'Custom branding name for YouTube Music' 'Enable debug logging' 'Restore old style library shelf' 'Spoof app version' 'Translations for YouTube Music'"
+included-patches = "'Custom header for YouTube Music' 'Hide double tap overlay filter' 'Hide player overlay filter'"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
+module-prop-name = "ytm-rvx-khinda"
+arch = "arm64-v8a"
+
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+version = "auto"
+excluded-patches = "'Hide recommended communities shelf' 'Premium icon'"
