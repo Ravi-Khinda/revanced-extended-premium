@@ -31,11 +31,11 @@
     "options": [
       {
         "key": "PackageNameYouTube",
-        "value": "yt.rvx.mnml.noname.exe"
+        "value": "yt.rvx.khinda.ravi.khinda"
       },
       {
         "key": "PackageNameYouTubeMusic",
-        "value": "ytm.rvx.mnml.noname.exe"
+        "value": "ytm.rvx.khinda.ravi.khinda"
       }
     ]
   },
@@ -53,7 +53,7 @@
     "options": [
       {
         "key": "RVXSettingsMenuName",
-        "value": "ReVanced eXtended MNML"
+        "value": "Revanced Extended Khinda"
       }
     ]
   },
@@ -93,7 +93,7 @@
     "options": [
       {
         "key": "RVXSettingsMenuName",
-        "value": "ReVanced eXtended MNML"
+        "value": "Revanced Extended Khinda"
       }
     ]
   },
@@ -102,7 +102,7 @@
     "options": [
       {
         "key": "PackageNameReddit",
-        "value": "rdt.rvx.mnml.noname.exe"
+        "value": "rdt.rvx.khinda.ravi.khinda"
       }
     ]
   },
@@ -111,7 +111,7 @@
     "options": [
       {
         "key": "RVXSettingsMenuName",
-        "value": "ReVanced eXtended MNML"
+        "value": "Revanced Extended Khinda"
       }
     ]
   }
